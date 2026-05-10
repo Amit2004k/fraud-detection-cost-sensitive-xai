@@ -1,0 +1,17 @@
+*.h5
+*.pt
+*.pth
+*.keras
+*.pkl
+*.joblib
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+data/raw/
+*.csv
+*.zip
